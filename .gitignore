@@ -1,0 +1,14 @@
+# Dependencias de Node.js
+node_modules/
+
+# Variables de entorno (por si en el futuro usas archivos .env)
+.env
+
+# Archivos de logs o temporales
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Configuración de sistema o IDE
+.DS_Store
+*.log
